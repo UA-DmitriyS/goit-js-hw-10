@@ -14,7 +14,7 @@ body {
 
 #search-box {
   font: inherit;
-  padding: 8px;
+  padding: 12px;
   max-width: 320px;
   margin-bottom: 16px;
 }
@@ -44,6 +44,6 @@ ul {
 }
 
 .is-card {
-  font-size: 28px;
+  font-size: 32px;
   font-weight: 600;
 }
